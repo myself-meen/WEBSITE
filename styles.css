@@ -1,0 +1,43 @@
+.hero{
+    background-color: #A696C8;
+height:600px;
+position: relative;
+
+
+
+}
+.text1{
+    color:#FAD3CF;
+    font-family: 'Exo 2';
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+
+}
+ .hey{
+    margin-left: 25px;;
+    align-self: flex-start;
+    font-size: 50px;
+}
+.name{
+    font-size:87px;
+}
+.desc{
+    font-size: 50px;
+}
+.hero .top-right-img{
+    position: absolute;
+      top: 20px;
+  right: 2px;
+  width:300px;
+
+}
+.about{
+    background-color: #FAD3CF;
+height:600px;
+position: relative;
+
+
+
+}
